@@ -4,9 +4,9 @@ Homepage: http://canaima.softwarelibre.gob.ve
 Standards-Version: 3.9.1
 
 Package: canaima-rivendell
-Version: 0.1
+Version: 0.2
 Maintainer: Ernesto Nadir Crespo Avila <ecrespo@cenditel.gob.ve>
-Pre-Depends: rivendell, rivendell-server
+Pre-Depends: rivendell,mysql-server, mysql-client, rivendell-server
 Depends: ${misc:Depends}
 Architecture: all
 Copyright: copyright

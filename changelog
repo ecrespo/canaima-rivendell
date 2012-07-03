@@ -1,3 +1,9 @@
+canaima-rivendell (1:0.2) unstable; urgency=low
+
+  * Add Pre-Depends mysql-server and mysql-client.
+
+ -- Ernesto Nadir Crespo Avila <ecrespo@cenditel.gob.ve>  Tue, 03 Jul 2012 11:59:37 -0430
+
 canaima-rivendell (1:0.1) unstable; urgency=low
 
   * First release.
