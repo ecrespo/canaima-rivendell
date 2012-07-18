@@ -1,0 +1,16 @@
+Section: misc
+Priority: optional
+Homepage: http://canaima.softwarelibre.gob.ve
+Standards-Version: 3.9.1
+
+Package: canaima-rivendell
+Version: 0.3-1
+Maintainer: Ernesto Nadir Crespo Avila <ecrespo@cenditel.gob.ve>
+Pre-Depends: rivendell,mysql-server, mysql-client, rivendell-server, libqt3-headers
+Depends: ${misc:Depends}
+Architecture: all
+Copyright: copyright
+Changelog: changelog
+Readme: README.Debian
+Description: Metapaquete que facilita la instalacion de Rivendell
+ Metapaquete que facilita la instalación de Rivendell en Canaima y Debian.
