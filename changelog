@@ -1,3 +1,9 @@
+canaima-rivendell (1:0.4) unstable; urgency=low
+
+  * Add libqt3-mt-mysql libqt4-sql-mysql,qjackctl,jackeq, jackd and jack-tools in Pre-Depends.
+
+ -- Ernesto Nadir Crespo Avila <ecrespo@cenditel.gob.ve>  Tue, 07 Aug 2012 09:09:25 -0430
+
 canaima-rivendell (1:0.3-1) unstable; urgency=low
 
   * Add libqt3-headers in Pre-Depends.
